@@ -1,0 +1,119 @@
+﻿#wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
+header {
+    width: 958px;
+    height: 190px;
+    background-color: #d3d3d3;
+    border: 1px solid;
+}
+#logo {
+    width: 220px;
+    height: 190px;
+    /*background-color: red;*/
+    float: left;
+}
+#logo img {
+    height: 190px;
+    width: 200px;
+}
+#banner {
+    width: 599px;
+    height: 190px;
+    /*background-color: green;*/
+    float: left;
+}
+#banner h1 {
+    padding-top: 5px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#banner h5 {
+    font-size: 20px;
+}
+#banner h2 b {
+    font-size: 25px;
+    font-weight: bold;
+}
+nav {
+
+    
+}
+nav ul {
+    
+}
+nav ul li {
+    display: inline;
+    float: left;
+}
+nav ul li a {
+    display: inline-block;
+    width: 156px;
+    background-color: #fffaf0;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px 0;
+    border: 2px solid chocolate;
+    color: gray;
+}
+nav ul li a:hover {
+    background-color: gray;
+    color: white;
+}
+.container {
+    width: 960px;
+}
+.content {
+    float: left;
+    width: 600px;
+}
+.content section {
+    background-color: #ffe4b5;
+    width: 576px;
+    border: 2px solid gray;
+    /*margin-top: 8px;*/
+    padding: 10px;
+}
+.content section p b {
+    font-weight: bold;
+    font-size: 18px;
+}
+h1 {
+    font-size: 25px;
+    font-weight: bold;
+}
+h4 {
+    font-size: 15px;
+}
+h3 {
+     font-size: 17px;
+    font-weight: bold;
+}
+p {
+     font-size: 15px;
+    margin-top: 5px;
+}
+aside {
+    background-color: #c0c0c0;
+    float: left;
+    width: 360px;
+    /*margin-left: 10px;*/
+}
+aside article {
+    height: 102px;
+    border: 2px solid gray;
+    padding: 10px;
+    margin-bottom: 1px;
+}
+footer {
+    clear: both;
+    height: 50px;
+    background-color: #8fbc8f;
+}
+footer p {
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}

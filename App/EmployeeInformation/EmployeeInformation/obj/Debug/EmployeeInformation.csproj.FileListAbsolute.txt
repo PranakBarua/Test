@@ -1,0 +1,6 @@
+E:\CODE+DB\Small-Project\EmployeeInformation\EmployeeInformation\bin\EmployeeInformation.dll.config
+E:\CODE+DB\Small-Project\EmployeeInformation\EmployeeInformation\bin\EmployeeInformation.dll
+E:\CODE+DB\Small-Project\EmployeeInformation\EmployeeInformation\bin\EmployeeInformation.pdb
+E:\CODE+DB\Small-Project\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.csprojResolveAssemblyReference.cache
+E:\CODE+DB\Small-Project\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.dll
+E:\CODE+DB\Small-Project\EmployeeInformation\EmployeeInformation\obj\Debug\EmployeeInformation.pdb

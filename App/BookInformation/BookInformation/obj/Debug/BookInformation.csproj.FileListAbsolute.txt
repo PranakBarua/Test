@@ -1,0 +1,6 @@
+E:\CODE+DB\Small-Project\BookInformation\BookInformation\bin\BookInformation.dll.config
+E:\CODE+DB\Small-Project\BookInformation\BookInformation\bin\BookInformation.dll
+E:\CODE+DB\Small-Project\BookInformation\BookInformation\bin\BookInformation.pdb
+E:\CODE+DB\Small-Project\BookInformation\BookInformation\obj\Debug\BookInformation.csprojResolveAssemblyReference.cache
+E:\CODE+DB\Small-Project\BookInformation\BookInformation\obj\Debug\BookInformation.dll
+E:\CODE+DB\Small-Project\BookInformation\BookInformation\obj\Debug\BookInformation.pdb

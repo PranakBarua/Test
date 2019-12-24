@@ -1,0 +1,6 @@
+E:\CODE+DB\Small-Project\PersonalWebPageDesign\PersonalWebPageDesign\bin\PersonalWebPageDesign.dll.config
+E:\CODE+DB\Small-Project\PersonalWebPageDesign\PersonalWebPageDesign\bin\PersonalWebPageDesign.dll
+E:\CODE+DB\Small-Project\PersonalWebPageDesign\PersonalWebPageDesign\bin\PersonalWebPageDesign.pdb
+E:\CODE+DB\Small-Project\PersonalWebPageDesign\PersonalWebPageDesign\obj\Debug\PersonalWebPageDesign.csprojResolveAssemblyReference.cache
+E:\CODE+DB\Small-Project\PersonalWebPageDesign\PersonalWebPageDesign\obj\Debug\PersonalWebPageDesign.dll
+E:\CODE+DB\Small-Project\PersonalWebPageDesign\PersonalWebPageDesign\obj\Debug\PersonalWebPageDesign.pdb

@@ -1,0 +1,6 @@
+E:\CODE+DB\Small-Project\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll.config
+E:\CODE+DB\Small-Project\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.dll
+E:\CODE+DB\Small-Project\StockManagementSystem\StockManagementSystem\bin\StockManagementSystem.pdb
+E:\CODE+DB\Small-Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.csprojResolveAssemblyReference.cache
+E:\CODE+DB\Small-Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.dll
+E:\CODE+DB\Small-Project\StockManagementSystem\StockManagementSystem\obj\Debug\StockManagementSystem.pdb
